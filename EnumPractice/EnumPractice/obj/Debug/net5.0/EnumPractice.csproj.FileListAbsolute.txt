@@ -1,0 +1,16 @@
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.exe
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.deps.json
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.runtimeconfig.json
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.runtimeconfig.dev.json
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.dll
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\ref\EnumPractice.dll
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.pdb
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.csprojAssemblyReference.cache
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.AssemblyInfoInputs.cache
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.AssemblyInfo.cs
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.dll
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\ref\EnumPractice.dll
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.pdb
+C:\WORK\REPO\ENUM\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.genruntimeconfig.cache
