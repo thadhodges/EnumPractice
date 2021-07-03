@@ -14,8 +14,8 @@ namespace EnumPractice
         static void Main(string[] args)
         {
             
-            Console.WriteLine(Weekdays.Friday);
-            Console.WriteLine(Foods.Chicken);
+            Console.WriteLine(Weekdays.Tuesday);
+            Console.WriteLine(Foods.Salad);
         }
     }
 }
